@@ -1,0 +1,522 @@
+ DONE  Compiled successfully in 3742ms下午3:37:14
+
+{
+  "errors": [],
+  "warnings": [],
+  "modules": [
+    {
+      "id": 0,
+      "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_react@16.8.6@react/index.js",
+      "name": "./node_modules/_react@16.8.6@react/index.js",
+      "index": 4,
+      "index2": 5,
+      "size": 189,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        3
+      ],
+      "issuer": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/search/index.js",
+      "issuerId": null,
+      "issuerName": "./src/search/index.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/search/index.js",
+          "name": "./src/search/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 1,
+      "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/common/index.js",
+      "name": "./common/index.js",
+      "index": 2,
+      "index2": 1,
+      "size": 54,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/index/index.js",
+      "issuerId": null,
+      "issuerName": "./src/index/index.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/index/index.js",
+          "name": "./src/index/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 2,
+      "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_object-assign@4.1.1@object-assign/index.js",
+      "name": "./node_modules/_object-assign@4.1.1@object-assign/index.js",
+      "index": 6,
+      "index2": 3,
+      "size": 2226,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        2
+      ],
+      "issuer": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_react@16.8.6@react/cjs/react.production.min.js",
+      "issuerId": 6,
+      "issuerName": "./node_modules/_react@16.8.6@react/cjs/react.production.min.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/search/index.js",
+          "name": "./src/search/index.js"
+        },
+        {
+          "id": 0,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_react@16.8.6@react/index.js",
+          "name": "./node_modules/_react@16.8.6@react/index.js"
+        },
+        {
+          "id": 6,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_react@16.8.6@react/cjs/react.production.min.js",
+          "name": "./node_modules/_react@16.8.6@react/cjs/react.production.min.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 3,
+      "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_react-dom@16.8.6@react-dom/index.js",
+      "name": "./node_modules/_react-dom@16.8.6@react-dom/index.js",
+      "index": 7,
+      "index2": 10,
+      "size": 1352,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        3
+      ],
+      "issuer": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/search/index.js",
+      "issuerId": null,
+      "issuerName": "./src/search/index.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/search/index.js",
+          "name": "./src/search/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 4,
+      "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_lagerxiaos@1.0.0@lagerxiaos/index.js",
+      "name": "./node_modules/_lagerxiaos@1.0.0@lagerxiaos/index.js",
+      "index": 15,
+      "index2": 15,
+      "size": 153,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        2
+      ],
+      "issuer": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/search/index.js",
+      "issuerId": null,
+      "issuerName": "./src/search/index.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/search/index.js",
+          "name": "./src/search/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 5,
+      "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_file-loader@4.1.0@file-loader/dist/cjs.js??ref--7-0!/Users/liuhao/Desktop/demo/my-project/src/assets/image/logo.jpeg",
+      "name": "./src/assets/image/logo.jpeg",
+      "index": 17,
+      "index2": 16,
+      "size": 64,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        2
+      ],
+      "issuer": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/search/index.js",
+      "issuerId": null,
+      "issuerName": "./src/search/index.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/search/index.js",
+          "name": "./src/search/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 6,
+      "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_react@16.8.6@react/cjs/react.production.min.js",
+      "name": "./node_modules/_react@16.8.6@react/cjs/react.production.min.js",
+      "index": 5,
+      "index2": 4,
+      "size": 9431,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        3
+      ],
+      "issuer": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_react@16.8.6@react/index.js",
+      "issuerId": 0,
+      "issuerName": "./node_modules/_react@16.8.6@react/index.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/search/index.js",
+          "name": "./src/search/index.js"
+        },
+        {
+          "id": 0,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_react@16.8.6@react/index.js",
+          "name": "./node_modules/_react@16.8.6@react/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 7,
+      "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_react-dom@16.8.6@react-dom/cjs/react-dom.production.min.js",
+      "name": "./node_modules/_react-dom@16.8.6@react-dom/cjs/react-dom.production.min.js",
+      "index": 8,
+      "index2": 9,
+      "size": 156920,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        3
+      ],
+      "issuer": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_react-dom@16.8.6@react-dom/index.js",
+      "issuerId": 3,
+      "issuerName": "./node_modules/_react-dom@16.8.6@react-dom/index.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/search/index.js",
+          "name": "./src/search/index.js"
+        },
+        {
+          "id": 3,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_react-dom@16.8.6@react-dom/index.js",
+          "name": "./node_modules/_react-dom@16.8.6@react-dom/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 8,
+      "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_scheduler@0.13.6@scheduler/index.js",
+      "name": "./node_modules/_scheduler@0.13.6@scheduler/index.js",
+      "index": 9,
+      "index2": 8,
+      "size": 197,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        2
+      ],
+      "issuer": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_react-dom@16.8.6@react-dom/cjs/react-dom.production.min.js",
+      "issuerId": 7,
+      "issuerName": "./node_modules/_react-dom@16.8.6@react-dom/cjs/react-dom.production.min.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/search/index.js",
+          "name": "./src/search/index.js"
+        },
+        {
+          "id": 3,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_react-dom@16.8.6@react-dom/index.js",
+          "name": "./node_modules/_react-dom@16.8.6@react-dom/index.js"
+        },
+        {
+          "id": 7,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_react-dom@16.8.6@react-dom/cjs/react-dom.production.min.js",
+          "name": "./node_modules/_react-dom@16.8.6@react-dom/cjs/react-dom.production.min.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 9,
+      "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_scheduler@0.13.6@scheduler/cjs/scheduler.production.min.js",
+      "name": "./node_modules/_scheduler@0.13.6@scheduler/cjs/scheduler.production.min.js",
+      "index": 10,
+      "index2": 7,
+      "size": 7354,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        2
+      ],
+      "issuer": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_scheduler@0.13.6@scheduler/index.js",
+      "issuerId": 8,
+      "issuerName": "./node_modules/_scheduler@0.13.6@scheduler/index.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/search/index.js",
+          "name": "./src/search/index.js"
+        },
+        {
+          "id": 3,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_react-dom@16.8.6@react-dom/index.js",
+          "name": "./node_modules/_react-dom@16.8.6@react-dom/index.js"
+        },
+        {
+          "id": 7,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_react-dom@16.8.6@react-dom/cjs/react-dom.production.min.js",
+          "name": "./node_modules/_react-dom@16.8.6@react-dom/cjs/react-dom.production.min.js"
+        },
+        {
+          "id": 8,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_scheduler@0.13.6@scheduler/index.js",
+          "name": "./node_modules/_scheduler@0.13.6@scheduler/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 10,
+      "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_webpack@4.39.0@webpack/buildin/global.js",
+      "name": "(webpack)/buildin/global.js",
+      "index": 11,
+      "index2": 6,
+      "size": 475,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        2
+      ],
+      "issuer": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_scheduler@0.13.6@scheduler/cjs/scheduler.production.min.js",
+      "issuerId": 9,
+      "issuerName": "./node_modules/_scheduler@0.13.6@scheduler/cjs/scheduler.production.min.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/search/index.js",
+          "name": "./src/search/index.js"
+        },
+        {
+          "id": 3,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_react-dom@16.8.6@react-dom/index.js",
+          "name": "./node_modules/_react-dom@16.8.6@react-dom/index.js"
+        },
+        {
+          "id": 7,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_react-dom@16.8.6@react-dom/cjs/react-dom.production.min.js",
+          "name": "./node_modules/_react-dom@16.8.6@react-dom/cjs/react-dom.production.min.js"
+        },
+        {
+          "id": 8,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_scheduler@0.13.6@scheduler/index.js",
+          "name": "./node_modules/_scheduler@0.13.6@scheduler/index.js"
+        },
+        {
+          "id": 9,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_scheduler@0.13.6@scheduler/cjs/scheduler.production.min.js",
+          "name": "./node_modules/_scheduler@0.13.6@scheduler/cjs/scheduler.production.min.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 11,
+      "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_mini-css-extract-plugin@0.8.0@mini-css-extract-plugin/dist/loader.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_css-loader@3.1.0@css-loader/dist/cjs.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_postcss-loader@3.0.0@postcss-loader/src/index.js??ref--6-2!/Users/liuhao/Desktop/demo/my-project/node_modules/_px2rem-loader@0.1.9@px2rem-loader/index.js??ref--6-3!/Users/liuhao/Desktop/demo/my-project/node_modules/_less-loader@5.0.0@less-loader/dist/cjs.js!/Users/liuhao/Desktop/demo/my-project/src/css/search.less",
+      "name": "./src/css/search.less",
+      "index": 13,
+      "index2": 13,
+      "size": 39,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        2
+      ],
+      "issuer": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/search/index.js",
+      "issuerId": null,
+      "issuerName": "./src/search/index.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/search/index.js",
+          "name": "./src/search/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 12,
+      "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_lagerxiaos@1.0.0@lagerxiaos/dist/large.min.js",
+      "name": "./node_modules/_lagerxiaos@1.0.0@lagerxiaos/dist/large.min.js",
+      "index": 16,
+      "index2": 14,
+      "size": 2162,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        2
+      ],
+      "issuer": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_lagerxiaos@1.0.0@lagerxiaos/index.js",
+      "issuerId": 4,
+      "issuerName": "./node_modules/_lagerxiaos@1.0.0@lagerxiaos/index.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/search/index.js",
+          "name": "./src/search/index.js"
+        },
+        {
+          "id": 4,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/node_modules/_lagerxiaos@1.0.0@lagerxiaos/index.js",
+          "name": "./node_modules/_lagerxiaos@1.0.0@lagerxiaos/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 13,
+      "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/index/index.js b24cb18ea8754ed17700d60871773bc4",
+      "name": "./src/index/index.js + 1 modules",
+      "index": 0,
+      "index2": 2,
+      "size": 219,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        1
+      ],
+      "issuer": null,
+      "issuerId": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 14,
+      "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/search/index.js 17614c5393a04f3673968a4479e517c8",
+      "name": "./src/search/index.js + 1 modules",
+      "index": 3,
+      "index2": 17,
+      "size": 3991,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        2
+      ],
+      "issuer": null,
+      "issuerId": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 15,
+      "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/search/text.js",
+      "name": "./src/search/text.js",
+      "index": 18,
+      "index2": 18,
+      "size": 130,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        4
+      ],
+      "issuer": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/search/index.js",
+      "issuerId": null,
+      "issuerName": "./src/search/index.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/Users/liuhao/Desktop/demo/my-project/node_modules/_babel-loader@8.0.6@babel-loader/lib/index.js!/Users/liuhao/Desktop/demo/my-project/src/search/index.js",
+          "name": "./src/search/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    }
+  ],
+  "filteredModules": 1,
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  }
+}

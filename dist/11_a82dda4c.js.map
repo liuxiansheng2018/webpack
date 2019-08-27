@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/search.4/text.js"],"names":[],"mappings":";;;;;;AAAA;AAAA;AAAA;AAAA;AAEe;AAAA,SAAM,kGAAN;AAAA,CAAf,E","file":"11_a82dda4c.js","sourcesContent":["import React from 'react';\n\nexport default () => <div>Text 动态import</div>"],"sourceRoot":""}
